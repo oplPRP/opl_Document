@@ -1,1 +1,12 @@
+BGM/SE使用部分
+
+HOME画面/写真確認画面BGM・・・home_bgm.mp3(素材：甘茶の音楽工房)
+HOME画面ゲームスタートボタンSE・・・gamestart_se.mp3(素材：Music is VFR）
+
+GAME画面BGM・・・game_bgm.mp3(素材：DOVA-SYNDROME )
+GAME画面Hit時SE・・・hit_se.mp3(素材：効果音ラボ)
+
+写真確認画面&写真投稿画面のゲームに戻るボタンSE・・・hit_se.mp3(素材：効果音ラボ)
+
+その他ボタンSE・・・tap_se.mp3(素材：クラゲ工匠)
 
